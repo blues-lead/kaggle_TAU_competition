@@ -1,4 +1,4 @@
 # kaggle_TAU_competition
-competition within the machine learning course
-algtest.py here I am testing some regular classifiers such as forest, LDA, LogReg etc. on given data. 
-he classifiers (scikit learn) are placed into a dict structure and tested for accuracy in loop.
+competition on the machine learning course.
+[Kaggle competition] (https://www.kaggle.com/c/vehicle/overview) - web-page of the competition
+
